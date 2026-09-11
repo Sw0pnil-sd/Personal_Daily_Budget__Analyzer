@@ -1,4 +1,4 @@
-# Personal Finance and Daily Budget/Spend Analyzer - CS 445
+# Personal Finance and Daily Budget/Spend Analyzer
 
 ## Team Members
 - Galib Yasar Kabir
