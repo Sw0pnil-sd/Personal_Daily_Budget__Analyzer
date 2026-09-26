@@ -17,3 +17,5 @@ Our GitHub Project board uses:
 - Backlog
 - In Progress
 - Done
+## Project Board
+GitHub Project Board: [Personal Daily Budget Analyzer — Scrum Board] (https://github.com/users/GalibYasarKabir/projects/1/views/1)
